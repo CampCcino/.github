@@ -1,5 +1,5 @@
 ##  캠핑의 온도를 담다, 캠프치노 (Camp Ccino) 
-> 전국 캠핑장을 한눈에 탐색할 수 있는 캠핑장 통합 검색 웹사이트 캠프치노입니다.
+전국 캠핑장을 한눈에 탐색할 수 있는 캠핑장 통합 검색 웹사이트
 
 <img width="627" height="347" alt="campccino" src="https://github.com/user-attachments/assets/56d4a442-497f-40d7-aae4-4eb2f05e0c4a" />
 
